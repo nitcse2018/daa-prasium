@@ -45,7 +45,6 @@ int maximum_sum(int A[], int low, int high)
 	// return maximum of the three
 	return max(max_left_right, left_max + right_max);
 }
-
 // Maximum Sum Subarray using Divide & Conquer
 int main()
 {
