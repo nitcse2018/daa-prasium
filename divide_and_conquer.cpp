@@ -25,7 +25,6 @@ int maximum_sum(int A[], int low, int high)
 		if (sum > left_max)
 			left_max = sum;
 	}
-
 	// Find maximum subarray sum for the right subarray
 	// excluding the middle element
 	int right_max = INT_MIN;
