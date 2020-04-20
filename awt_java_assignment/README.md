@@ -1,6 +1,6 @@
 # Resume Builder
 
-Fill the required information, and clicking on the generate button, create a file 'Resume.txt' which contains the data entered in the UI.
+Fill the required information, and clicking on the generate button,will create a file 'Resume.txt' which contains the data entered in the UI.
 
 ## Instructions
 
