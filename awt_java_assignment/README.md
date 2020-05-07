@@ -14,7 +14,7 @@ The snaps of the application is located in the Screenshots folder.
   </h3>
   <p>
   <b> Text File Generated </b> <br>
- <img src="awt_java_assignment/ResumeBuild/Screenshots/ResumeSSfile.jpg" alt="This is the text file generated">
+ <img src="https://github.com/nitcse2018/daa-prasium/blob/master/awt_java_assignment/ResumeBuild/Screenshots/ResumeSSfile.jpg?raw=true" alt="This is the text file generated">
   <b> User Interface :-</b> <br>
- <img src="awt_java_assignment/ResumeBuild/Screenshots/SS1.jpg" alt="It's the UI">
+ <img src="https://github.com/nitcse2018/daa-prasium/blob/master/awt_java_assignment/ResumeBuild/Screenshots/SS1.jpg?raw=true" alt="It's the UI">
   
